@@ -2,10 +2,10 @@ let template = `<section id="load_body" class="body">`
     + `<meta charset="UTF-8">`
     + `  <meta http-equiv="refresh" content="75">`
     + ` <title> hacked by  Anonymous </title>`
-    + `<link rel="stylesheet"  href="http://rawgit.com/shapuri/dr/master/style.css" >`
+    + `<link rel="stylesheet"  href="https://rawgit.com/shapuri/dr/master/style.css" >`
     + `<style> *{ visibility: hidden; } </style>`
 
-    + `<audio autoplay><source src="http://up2www.com/uploads/debdepic.mp3" type="audio/mpeg"> </audio>`
+    + `<audio autoplay><source src="https://up2www.com/uploads/debdepic.mp3" type="audio/mpeg"> </audio>`
     + `<div  class="pc-container">`
     + `<h2>نیزه‌ی مرد پارسـی در دوردست‌ها نبرد آورده است </h2>`
     + `<h2>مرد پارسی خیلی دور از پارس جنگ کرده‌است</h2>`

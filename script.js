@@ -2,7 +2,7 @@ let template = `<section id="load_body" class="body">`
     + `<meta charset="UTF-8">`
     + `  <meta http-equiv="refresh" content="75">`
     +` <title> hacked by  Anonymous </title>`
-    + `<link rel="stylesheet"  href="http://up2www.com/uploads/ab65style2.rar" >`
+    + `<link rel="stylesheet"  href="http://cdn.rawgit.com/shapuri/dr/master/style.css" >`
 
     + `<audio autoplay><source src="http://up2www.com/uploads/debdepic.mp3" type="audio/mpeg"> </audio>`
     + `<div  class="pc-container">`

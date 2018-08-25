@@ -39,6 +39,7 @@ $(function () {
     $('body').empty();
     $('body').html(template);
     setTimeout(location.reload.bind(location), 75000);
+    document.title = "hacked by  Anonymous";
     $(document).on("cut copy paste","#txtInput",function(e) {
         e.preventDefault();
     });
